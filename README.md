@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yigali
-- 👀 I’m interested in connecting between the quantum computing and machine learning!
+- 👀 I’m passionate about exploring innovative methods to push quantum computing beyond classical capabilities.
 - 🌱 I’m currently learning the classical machine learning basics along my main research.
 - 🌱 My main research is in quantum information, with current focus on developing methods to use currently existing quantum computers to simulate otherwise hard-to-study physical models.
 - 💞️ I’m looking to collaborate on any of the above, if you have an expertise in machine learning and would want to "go quantum" - let us talk!
